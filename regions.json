@@ -1,8 +1,6 @@
-[
-    {
-        "appName": "31c2bb02c3a5be11fc1cdff94b0400e4b55771c03b4fe7ee53e56d737d296995",
-        "regionCodes": [
-            "b1b7afa76db271451a1f3fff738ff21ed53cca91f7f580bb294193e9d2da31b4"
-        ]
-    }
-]
+{
+    "appName": "31c2bb02c3a5be11fc1cdff94b0400e4b55771c03b4fe7ee53e56d737d296995",
+    "regionCodes": [
+        "b1b7afa76db271451a1f3fff738ff21ed53cca91f7f580bb294193e9d2da31b4"
+    ]
+}
