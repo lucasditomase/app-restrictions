@@ -1,0 +1,5 @@
+.DS_Store
+# macOS Finder metadata file, not needed in source control
+
+.netrc
+# User credentials for network authentication, should be kept private
