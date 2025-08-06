@@ -1,21 +1,32 @@
-# A Threat Analysis of Sideloading
+# Analiza Zagrożeń - **Adware** (HiddenAds, CopyCat): Zasypuje użytkowników agresywnymi lub oszukańczymi reklamami.
+- **Ransomware** (CryCryptor, MalLocker.B): Szyfruje dane urządzenia i żąda okupu.
+- **Spyware** (SpyNote, HelloSpy): Monitoruje aktywność, przechwytuje prywatne dane, używane w inwigilacji partnerów intymnych.
+- **Trojany Bankowe** (BlackRock, Anubis): Kradnie dane uwierzytelniające przez ataki nakładkowe, nawet omija 2FA.
 
-## 📌 Key Insights
+## 🧠 Porady Ekspertów ds. Bezpieczeństwa
 
-- iPhone's strong privacy/security is critical due to the sensitive nature of personal data stored on it.
-- Sideloading (installing apps outside the App Store) poses major threats to this security model.
-- Malware is far more prevalent on platforms that support sideloading (e.g., Android has 15–47x more infections than iOS).
-- App Store review processes and system protections significantly reduce malware risk.
+> "Instaluj aplikacje tylko z oficjalnych sklepów z aplikacjami." — Europol
+> "Unikaj sideloadingu na urządzeniach BYOD." — Departament Bezpieczeństwa Wewnętrznego USA
+> "Aplikacje innych firm stanowią poważne zagrożenie bezpieczeństwa." — Interpol/Kaspersky
 
-## 📉 Risks of Sideloading
+## 🚫 Stanowisko Apple
 
-- **Increased Malware**: Sideloading bypasses App Store checks, enabling adware, spyware, trojans, etc.
-- **Social Engineering**: Users may be tricked into installing fake apps mimicking legitimate ones.
-- **Reduced User Control**: Sideloaded apps may bypass parental controls, App Tracking Transparency, or permission prompts.
-- **Weakened Platform Security**: Could require exposing proprietary APIs or OS internals, threatening iOS's core security architecture.
-- **Negative Externalities**: Even users who avoid sideloading are at risk—e.g., via enterprise coercion, fake app store mimicry, or business/work needs.
+## 📌 Kluczowe Spostrzeżenia
 
-## 🔍 Malware Examples
+- Silna prywatność/bezpieczeństwo iPhone'a jest krytyczne ze względu na wrażliwą naturę danych osobowych przechowywanych na nim.
+- Sideloading (instalowanie aplikacji poza App Store) stanowi poważne zagrożenia dla tego modelu bezpieczeństwa.
+- Malware jest znacznie bardziej rozpowszechnione na platformach obsługujących sideloading (np. Android ma 15–47x więcej infekcji niż iOS).
+- Procesy weryfikacji App Store i zabezpieczenia systemowe znacząco zmniejszają ryzyko malware'u.
+
+## 📉 Ryzyko Sideloadingu
+
+- **Zwiększony Malware**: Sideloading omija kontrole App Store, umożliwiając adware, spyware, trojany itp.
+- **Inżynieria Społeczna**: Użytkownicy mogą zostać oszukani do instalowania fałszywych aplikacji naśladujących prawdziwe.
+- **Zmniejszona Kontrola Użytkownika**: Aplikacje sideloadowane mogą ominąć kontrolę rodzicielską, Przejrzystość Śledzenia Aplikacji lub zapytania o uprawnienia.
+- **Osłabienie Bezpieczeństwa Platformy**: Może wymagać ujawnienia zastrzeżonych API lub wewnętrznych komponentów OS, zagrażając podstawowej architekturze bezpieczeństwa iOS.
+- **Negatywne Efekty Zewnętrzne**: Nawet użytkownicy unikający sideloadingu są narażeni na ryzyko—np. przez przymus korporacyjny, naśladownictwo fałszywych sklepów z aplikacjami lub potrzeby biznesowe/zawodowe.
+
+## 🔍 Przykłady Malware'u
 
 - **Adware** (HiddenAds, CopyCat): Floods users with aggressive or fraudulent ads.
 - **Ransomware** (CryCryptor, MalLocker.B): Encrypts device data and demands ransom.
@@ -24,28 +35,28 @@
 
 ## 🧠 Security Expert Advice
 
-> "Only install apps from official app stores." — Europol  
-> "Avoid sideloading on BYOD devices." — US Dept. of Homeland Security  
+> "Only install apps from official app stores." — Europol
+> "Avoid sideloading on BYOD devices." — US Dept. of Homeland Security
 > "Third-party apps pose a serious security threat." — Interpol/Kaspersky
 
 ## 🚫 Apple’s Position
 
-- Apple already allows limited enterprise sideloading with strict controls.
-- Prior misuse (e.g., Facebook Research app, Goontact spyware) shows how quickly these mechanisms are abused.
-- Broad sideloading would magnify this risk drastically.
+- Apple już pozwala na ograniczony sideloading korporacyjny z surowymi kontrolami.
+- Wcześniejsze nadużycia (np. aplikacja Facebook Research, spyware Goontact) pokazują, jak szybko te mechanizmy są nadużywane.
+- Szeroki sideloading drastycznie zwiększyłby to ryzyko.
 
-## 📎 Conclusion
+## 📎 Wniosek
 
-Sideloading introduces widespread risks across users, developers, and organizations. Apple asserts that it would degrade platform trust, increase attack surfaces, and diminish privacy protections for all users—not just those who sideload.
+Sideloading wprowadza szerokie ryzyko wśród użytkowników, deweloperów i organizacji. Apple twierdzi, że degradowałoby to zaufanie do platformy, zwiększało powierzchnie ataku i zmniejszało ochronę prywatności dla wszystkich użytkowników—nie tylko tych, którzy używają sideloadingu.
 
 ---
 
-## 📄 Original Documents
+## 📄 Oryginalne Dokumenty
 
-- 🧷 *Building a Trusted Ecosystem for Millions of Apps* (June 2021)  
-  ↪️ [apple.com (official)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
-  ↪️ [github.com/lucasditomase (backup)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)
+- 🧷 *Budowanie Zaufanego Ekosystemu dla Milionów Aplikacji* (Czerwiec 2021)
+  ↪️ [apple.com (oficjalne)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)
+  ↪️ [github.com/lucasditomase (kopia zapasowa)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)
 
-- 🧷 *A Threat Analysis of Sideloading* (October 2021)  
-  ↪️ [apple.com (official)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
-  ↪️ [github.com/lucasditomase (backup)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)
+- 🧷 *Analiza Zagrożeń Sideloadingu* (Październik 2021)
+  ↪️ [apple.com (oficjalne)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)
+  ↪️ [github.com/lucasditomase (kopia zapasowa)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)
