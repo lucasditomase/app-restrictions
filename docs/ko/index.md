@@ -45,9 +45,9 @@
 ## 원문 문서  
 
 - *수백만 개의 앱을 위한 신뢰할 수 있는 생태계 구축* (2021년 6월)  
-  [apple.com (공식)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
-  [github.com/lucasditomase (백업)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
+  -  [apple.com (공식)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
+  -  [github.com/lucasditomase (백업)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
 - *사이드로딩에 대한 위협 분석* (2021년 10월)  
-  [apple.com (공식)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
-  [github.com/lucasditomase (백업)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  
+  -  [apple.com (공식)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
+  -  [github.com/lucasditomase (백업)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  

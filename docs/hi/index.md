@@ -45,9 +45,9 @@
 ## मूल दस्तावेज़  
 
 - *दर्जनों ऐप्स के लिए एक विश्वसनीय इकोसिस्टम का निर्माण* (जून 2021)  
-  [apple.com (आधिकारिक)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
-  [github.com/lucasditomase (बैकअप)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
+  -  [apple.com (आधिकारिक)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
+  -  [github.com/lucasditomase (बैकअप)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
 - *साइडलोडिंग का एक खतरे का विश्लेषण* (अक्टूबर 2021)  
-  [apple.com (आधिकारिक)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
-  [github.com/lucasditomase (बैकअप)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  
+  -  [apple.com (आधिकारिक)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
+  -  [github.com/lucasditomase (बैकअप)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  

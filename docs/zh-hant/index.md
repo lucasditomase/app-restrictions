@@ -45,9 +45,9 @@
 ## 原始文件  
 
 - *為數百萬應用程式打造可信賴的生態系統*（2021 年 6 月）  
-  [apple.com（官方）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
-  [github.com/lucasditomase（備份）](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
+  -  [apple.com（官方）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
+  -  [github.com/lucasditomase（備份）](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
 - *側載行為的威脅分析*（2021 年 10 月）  
-  [apple.com（官方）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
-  [github.com/lucasditomase（備份）](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  
+  -  [apple.com（官方）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
+  -  [github.com/lucasditomase（備份）](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  
