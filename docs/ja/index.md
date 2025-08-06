@@ -44,10 +44,10 @@
 
 ## 公式ドキュメント  
 
-- *何百万ものアプリのための信頼できるエコシステムの構築*（2021年6月）  
+***何百万ものアプリのための信頼できるエコシステムの構築***（2021年6月）  
   -  [apple.com（公式）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
   -  [github.com/lucasditomase（バックアップ）](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
-- *サイドローディングの脅威分析*（2021年10月）  
+***サイドローディングの脅威分析***（2021年10月）  
   -  [apple.com（公式）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
   -  [github.com/lucasditomase（バックアップ）](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  

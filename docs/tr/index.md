@@ -44,10 +44,10 @@ Sideloading, kullanıcılar, geliştiriciler ve kurumlar genelinde yaygın riskl
 
 ## Orijinal Belgeler  
 
-- *Milyonlarca Uygulama için Güvenilir Bir Ekosistem Oluşturmak* (Haziran 2021)  
+***Milyonlarca Uygulama için Güvenilir Bir Ekosistem Oluşturmak*** (Haziran 2021)  
   -  [apple.com (resmi)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
   -  [github.com/lucasditomase (yedek)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
-- *Sideloading Tehdit Analizi* (Ekim 2021)  
+***Sideloading Tehdit Analizi*** (Ekim 2021)  
   -  [apple.com (resmi)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
   -  [github.com/lucasditomase (yedek)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  

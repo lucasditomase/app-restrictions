@@ -44,10 +44,10 @@
 
 ## 原始文档  
 
-- *为数百万应用构建可信生态系统*（2021 年 6 月）  
+***为数百万应用构建可信生态系统***（2021 年 6 月）  
   -  [apple.com（官方）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
   -  [github.com/lucasditomase（备份）](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
-- *对侧载行为的威胁分析*（2021 年 10 月）  
+***对侧载行为的威胁分析***（2021 年 10 月）  
   -  [apple.com（官方）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
   -  [github.com/lucasditomase（备份）](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  

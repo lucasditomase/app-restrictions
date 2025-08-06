@@ -44,10 +44,10 @@
 
 ## Оригінальні документи  
 
-- *Побудова надійної екосистеми для мільйонів застосунків* (червень 2021)  
+***Побудова надійної екосистеми для мільйонів застосунків*** (червень 2021)  
   -  [apple.com (офіційний сайт)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
   -  [github.com/lucasditomase (резервна копія)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
-- *Аналіз загроз від сайдлодінгу* (жовтень 2021)  
+***Аналіз загроз від сайдлодінгу*** (жовтень 2021)  
   -  [apple.com (офіційний сайт)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
   -  [github.com/lucasditomase (резервна копія)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  

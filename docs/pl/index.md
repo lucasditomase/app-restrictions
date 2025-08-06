@@ -44,10 +44,10 @@ Sideloading niesie ze sobą szerokie ryzyka dla użytkowników, deweloperów i o
 
 ## Dokumenty źródłowe  
 
-- *Budowanie zaufanego ekosystemu dla milionów aplikacji* (czerwiec 2021)  
+***Budowanie zaufanego ekosystemu dla milionów aplikacji*** (czerwiec 2021)  
   -  [apple.com (oficjalna)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
   -  [github.com/lucasditomase (kopia)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
-- *Analiza zagrożeń związanych z sideloadingiem* (październik 2021)  
+***Analiza zagrożeń związanych z sideloadingiem*** (październik 2021)  
   -  [apple.com (oficjalna)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
   -  [github.com/lucasditomase (kopia)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  

@@ -44,10 +44,10 @@
 
 ## Оригинальные документы  
 
-- *Построение надёжной экосистемы для миллионов приложений* (июнь 2021)  
+***Построение надёжной экосистемы для миллионов приложений*** (июнь 2021)  
   -  [apple.com (официальный сайт)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
   -  [github.com/lucasditomase (резервная копия)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
-- *Анализ угроз, связанных с сайдлоадингом* (октябрь 2021)  
+***Анализ угроз, связанных с сайдлоадингом*** (октябрь 2021)  
   -  [apple.com (официальный сайт)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
   -  [github.com/lucasditomase (резервная копия)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  

@@ -44,10 +44,10 @@
 
 ## المستندات الأصلية  
 
-- *بناء نظام بيئي موثوق لملايين التطبيقات* (يونيو 2021)  
+***بناء نظام بيئي موثوق لملايين التطبيقات*** (يونيو 2021)  
   -  [apple.com (رسمي)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
   -  [github.com/lucasditomase (نسخة احتياطية)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
-- *تحليل تهديدات التثبيت الجانبي* (أكتوبر 2021)  
+***تحليل تهديدات التثبيت الجانبي*** (أكتوبر 2021)  
   -  [apple.com (رسمي)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
   -  [github.com/lucasditomase (نسخة احتياطية)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  
