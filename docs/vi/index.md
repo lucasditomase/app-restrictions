@@ -1,62 +1,51 @@
-# Phân tích Mối đe - **Adware** (HiddenAds, CopyCat): Làm ngập người dùng bằng quảng cáo tích cực hoặc lừa đảo.  
-- **Ransomware** (CryCryptor, MalLocker.B): Mã hóa dữ liệu thiết bị và đòi tiền chuộc.  
-- **Spyware** (SpyNote, HelloSpy): Giám sát hoạt động, thu thập dữ liệu riêng tư, được sử dụng trong giám sát đối tác thân mật.  
-- **Banking Trojans** (BlackRock, Anubis): Đánh cắp thông tin đăng nhập qua tấn công overlay, thậm chí bỏ qua 2FA.  
+# Phân Tích Mối Đe Dọa Của Việc Sideloading  
 
-## 🧠 Lời khuyên của Chuyên gia Bảo mật  
+## 📌 Những Thông Tin Chính  
 
-> "Chỉ cài đặt ứng dụng từ các cửa hàng ứng dụng chính thức." — Europol  
+- Quyền riêng tư và bảo mật mạnh mẽ của iPhone là cực kỳ quan trọng vì tính chất nhạy cảm của dữ liệu cá nhân được lưu trữ trên thiết bị.  
+- Sideloading (cài đặt ứng dụng bên ngoài App Store) gây ra những mối đe dọa nghiêm trọng đối với mô hình bảo mật này.  
+- Phần mềm độc hại xuất hiện phổ biến hơn nhiều trên các nền tảng hỗ trợ sideloading (ví dụ: Android có số lượng lây nhiễm cao hơn iOS từ 15–47 lần).  
+- Các quy trình đánh giá của App Store và cơ chế bảo vệ hệ thống giúp giảm đáng kể nguy cơ phần mềm độc hại.  
+
+## 📉 Rủi Ro Của Việc Sideloading  
+
+- **Gia Tăng Phần Mềm Độc Hại**: Sideloading bỏ qua các kiểm tra của App Store, cho phép cài đặt adware, spyware, trojan, v.v.  
+- **Lừa Đảo Xã Hội**: Người dùng có thể bị lừa cài đặt các ứng dụng giả mạo giống như ứng dụng thật.  
+- **Giảm Kiểm Soát Của Người Dùng**: Ứng dụng cài đặt qua sideloading có thể bỏ qua kiểm soát của phụ huynh, tính minh bạch trong theo dõi ứng dụng hoặc các yêu cầu quyền truy cập.  
+- **Làm Suy Yếu Bảo Mật Nền Tảng**: Có thể yêu cầu công khai API độc quyền hoặc phần nội bộ của hệ điều hành, đe dọa đến kiến trúc bảo mật cốt lõi của iOS.  
+- **Tác Động Tiêu Cực Bên Ngoài**: Ngay cả người dùng không sideload cũng có thể gặp rủi ro — ví dụ như do sự ép buộc từ doanh nghiệp, ứng dụng giả mạo App Store hoặc yêu cầu công việc.  
+
+## 🔍 Ví Dụ Về Phần Mềm Độc Hại  
+
+- **Adware** (HiddenAds, CopyCat): Gây ngập quảng cáo gây khó chịu hoặc lừa đảo cho người dùng.  
+- **Ransomware** (CryCryptor, MalLocker.B): Mã hóa dữ liệu thiết bị và yêu cầu tiền chuộc.  
+- **Spyware** (SpyNote, HelloSpy): Theo dõi hoạt động, thu thập dữ liệu riêng tư, được sử dụng trong việc giám sát giữa các cặp đôi.  
+- **Trojan Ngân Hàng** (BlackRock, Anubis): Đánh cắp thông tin đăng nhập bằng tấn công lớp phủ, thậm chí vượt qua cả xác thực hai yếu tố (2FA).  
+
+## 🧠 Lời Khuyên Từ Chuyên Gia Bảo Mật  
+
+> "Chỉ nên cài đặt ứng dụng từ các kho ứng dụng chính thức." — Europol  
 > "Tránh sideloading trên thiết bị BYOD." — Bộ An ninh Nội địa Hoa Kỳ  
-> "Ứng dụng bên thứ ba gây ra mối đe dọa bảo mật nghiêm trọng." — Interpol/Kaspersky  
+> "Ứng dụng bên thứ ba là mối đe dọa bảo mật nghiêm trọng." — Interpol / Kaspersky  
 
-## 🚫 Lập trường của Appleloading  
+## 🚫 Quan Điểm Của Apple  
 
-## 📌 Thông tin chính  
+- Apple hiện đã cho phép sideloading trong doanh nghiệp một cách hạn chế với các kiểm soát nghiêm ngặt.  
+- Các trường hợp lạm dụng trước đây (ví dụ: ứng dụng Facebook Research, phần mềm gián điệp Goontact) cho thấy các cơ chế này dễ bị lạm dụng như thế nào.  
+- Việc sideloading phổ biến sẽ làm gia tăng nguy cơ này một cách nghiêm trọng.  
 
-- Quyền riêng tư/bảo mật mạnh mẽ của iPhone rất quan trọng do tính chất nhạy cảm của dữ liệu cá nhân được lưu trữ trên đó.  
-- Sideloading (cài đặt ứng dụng bên ngoài App Store) tạo ra những mối đe dọa lớn đối với mô hình bảo mật này.  
-- Phần mềm độc hại phổ biến hơn nhiều trên các nền tảng hỗ trợ sideloading (ví dụ: Android có nhiều nhiễm trùng hơn iOS 15–47 lần).  
-- Quy trình đánh giá App Store và bảo vệ hệ thống giảm đáng kể rủi ro phần mềm độc hại.  
+## 📎 Kết Luận  
 
-## 📉 Rủi ro của Sideloading  
-
-- **Tăng Phần mềm độc hại**: Sideloading bỏ qua kiểm tra App Store, cho phép adware, spyware, trojan, v.v.  
-- **Kỹ thuật Xã hội**: Người dùng có thể bị lừa cài đặt ứng dụng giả mạo những ứng dụng hợp pháp.  
-- **Giảm Kiểm soát Người dùng**: Ứng dụng sideloaded có thể bỏ qua kiểm soát của phụ huynh, Tính minh bạch Theo dõi Ứng dụng, hoặc lời nhắc quyền.  
-- **Bảo mật Nền tảng Yếu đi**: Có thể yêu cầu tiết lộ API độc quyền hoặc nội bộ OS, đe dọa kiến trúc bảo mật cốt lõi của iOS.  
-- **Tác động Tiêu cực Bên ngoài**: Ngay cả người dùng tránh sideloading cũng gặp rủi ro—ví dụ, qua ép buộc doanh nghiệp, mô phỏng cửa hàng ứng dụng giả, hoặc nhu cầu kinh doanh/công việc.  
-
-## 🔍 Ví dụ Phần mềm độc hại  
-
-- **Adware** (HiddenAds, CopyCat): Floods users with aggressive or fraudulent ads.  
-- **Ransomware** (CryCryptor, MalLocker.B): Encrypts device data and demands ransom.  
-- **Spyware** (SpyNote, HelloSpy): Monitors activity, captures private data, used in intimate partner surveillance.  
-- **Banking Trojans** (BlackRock, Anubis): Steals credentials via overlay attacks, even bypasses 2FA.  
-
-## 🧠 Security Expert Advice  
-
-> "Only install apps from official app stores." — Europol  
-> "Avoid sideloading on BYOD devices." — US Dept. of Homeland Security  
-> "Third-party apps pose a serious security threat." — Interpol/Kaspersky  
-
-## 🚫 Apple’s Position  
-
-- Apple đã cho phép sideloading doanh nghiệp hạn chế với kiểm soát nghiêm ngặt.  
-- Lạm dụng trước đây (ví dụ: ứng dụng Facebook Research, spyware Goontact) cho thấy các cơ chế này bị lạm dụng nhanh như thế nào.  
-- Sideloading rộng rãi sẽ làm tăng đáng kể rủi ro này.  
-
-## 📎 Kết luận  
-
-Sideloading tạo ra rủi ro rộng rãi cho người dùng, nhà phát triển và tổ chức. Apple khẳng định rằng điều này sẽ làm suy giảm niềm tin vào nền tảng, tăng bề mặt tấn công và giảm bảo vệ quyền riêng tư cho tất cả người dùng—không chỉ những người sideload.  
+Sideloading tạo ra rủi ro trên diện rộng đối với người dùng, nhà phát triển và tổ chức. Apple khẳng định rằng điều này sẽ làm suy giảm lòng tin vào nền tảng, mở rộng bề mặt tấn công và làm giảm khả năng bảo vệ quyền riêng tư cho tất cả người dùng — không chỉ những người thực hiện sideloading.  
 
 ---  
 
-## 📄 Tài liệu Gốc  
+## 📄 Tài Liệu Gốc  
 
-- 🧷 *Xây dựng Hệ sinh thái Đáng tin cậy cho Hàng triệu Ứng dụng* (Tháng 6 2021)  
+- 🧷 *Xây Dựng Hệ Sinh Thái Tin Cậy Cho Hàng Triệu Ứng Dụng* (tháng 6 năm 2021)  
   ↪️ [apple.com (chính thức)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
-  ↪️ [github.com/lucasditomase (sao lưu)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
+  ↪️ [github.com/lucasditomase (bản sao lưu)](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
-- 🧷 *Phân tích Mối đe dọa của Sideloading* (Tháng 10 2021)  
+- 🧷 *Phân Tích Mối Đe Dọa Của Sideloading* (tháng 10 năm 2021)  
   ↪️ [apple.com (chính thức)](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
-  ↪️ [github.com/lucasditomase (sao lưu)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  
+  ↪️ [github.com/lucasditomase (bản sao lưu)](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  

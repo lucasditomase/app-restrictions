@@ -1,60 +1,51 @@
-# 側載威脅分析  
+# 側載行為的威脅分析  
 
-## 📌 關鍵見- **廣告軟體**（HiddenAds，CopyCat）：用激進或欺詐性廣告淹沒用戶。  
-- **勒索軟體**（CryCryptor，MalLocker.B）：加密設備數據並要求贖金。  
-- **間諜軟體**（SpyNote，HelloSpy）：監控活動，捕獲私人數據，用於親密伴侶監視。  
-- **銀行木馬**（BlackRock，Anubis）：通過覆蓋攻擊竊取憑證，甚至繞過2FA。  
+## 📌 主要見解  
 
-## 🧠 安全專家建議  
+- iPhone 的強大隱私與安全性至關重要，因為其儲存了高度敏感的個人資料。  
+- 側載（在 App Store 之外安裝應用程式）對此安全模型構成重大威脅。  
+- 支援側載的平台上的惡意軟體明顯更多（例如 Android 的感染量是 iOS 的 15–47 倍）。  
+- App Store 的審核流程與系統保護機制大幅降低了惡意軟體的風險。  
 
-> "僅從官方應用程式商店安裝應用程式。" — 歐洲刑警組織  
-> "避免在BYOD設備上側載。" — 美國國土安全部  
-> "第三方應用程式構成嚴重安全威脅。" — 國際刑警組織/卡巴斯基  
+## 📉 側載的風險  
 
-## 🚫 Apple的立場大的隱私/安全對於存儲在其中的敏感個人數據至關重要。  
-- 側載（在App Store外安裝應用程式）對這種安全模式構成重大威脅。  
-- 惡意軟體在支援側載的平台上更為普遍（例如，Android的感染率比iOS高15-47倍）。  
-- App Store審核流程和系統保護措施顯著降低了惡意軟體風險。  
+- **惡意軟體增加**：側載繞過 App Store 的檢查，讓廣告軟體、間諜程式、木馬等有機可乘。  
+- **社交工程攻擊**：用戶可能會被誘騙安裝仿冒合法應用的惡意程式。  
+- **使用者控制權下降**：側載的應用可能繞過家長監控、App 追蹤透明度或權限提示。  
+- **平台安全性削弱**：可能需要公開私有 API 或作業系統內部實作，威脅 iOS 核心安全架構。  
+- **負面外部效應**：即便不側載的使用者也有風險，例如企業強迫、偽造 App Store、或工作需求等。  
 
-## 📉 側載風險  
+## 🔍 惡意軟體實例  
 
-- **惡意軟體增加**：側載繞過App Store檢查，使得廣告軟體、間諜軟體、木馬等成為可能。  
-- **社會工程**：用戶可能被誘騙安裝模仿合法應用程式的虛假應用程式。  
-- **用戶控制減少**：側載應用程式可能繞過家長控制、應用程式追蹤透明度或權限提示。  
-- **平台安全削弱**：可能需要暴露專有API或OS內部組件，威脅iOS核心安全架構。  
-- **負外部性**：即使避免側載的用戶也面臨風險——例如，通過企業強制、虛假應用程式商店模仿或商業/工作需要。  
+- **廣告軟體**（HiddenAds、CopyCat）：對使用者大量推播具攻擊性或詐騙性的廣告。  
+- **勒索軟體**（CryCryptor、MalLocker.B）：加密裝置資料並索取贖金。  
+- **間諜軟體**（SpyNote、HelloSpy）：監控使用者行為、竊取私人資料，常用於親密關係監控。  
+- **銀行木馬**（BlackRock、Anubis）：透過畫面覆蓋攻擊竊取帳號資訊，甚至可繞過雙重驗證（2FA）。  
 
-## 🔍 惡意軟體示例  
+## 🧠 資安專家建議  
 
-- **Adware** (HiddenAds, CopyCat): Floods users with aggressive or fraudulent ads.  
-- **Ransomware** (CryCryptor, MalLocker.B): Encrypts device data and demands ransom.  
-- **Spyware** (SpyNote, HelloSpy): Monitors activity, captures private data, used in intimate partner surveillance.  
-- **Banking Trojans** (BlackRock, Anubis): Steals credentials via overlay attacks, even bypasses 2FA.  
+> 「僅從官方應用商店安裝應用程式。」— 歐洲刑警組織 Europol  
+> 「避免在 BYOD 裝置上側載。」— 美國國土安全部  
+> 「第三方應用程式構成嚴重的安全威脅。」— 國際刑警組織 / 卡巴斯基  
 
-## 🧠 Security Expert Advice  
+## 🚫 Apple 的立場  
 
-> "Only install apps from official app stores." — Europol  
-> "Avoid sideloading on BYOD devices." — US Dept. of Homeland Security  
-> "Third-party apps pose a serious security threat." — Interpol/Kaspersky  
-
-## 🚫 Apple’s Position  
-
-- Apple已經允許在嚴格控制下進行有限的企業側載。  
-- 先前的濫用（例如，Facebook Research應用程式，Goontact間諜軟體）顯示了這些機制被濫用的速度。  
-- 廣泛的側載將大大放大這種風險。  
+- Apple 已允許企業端在嚴格控管下進行有限的側載。  
+- 過往濫用實例（如 Facebook Research 應用、Goontact 間諜軟體）顯示該機制很容易被濫用。  
+- 若普遍開放側載，這些風險將大幅提升。  
 
 ## 📎 結論  
 
-側載在用戶、開發者和組織中引入了廣泛的風險。Apple聲稱這將降低平台信任，增加攻擊面，並削弱所有用戶（不僅僅是那些側載的用戶）的隱私保護。  
+側載行為為使用者、開發者與組織帶來廣泛風險。Apple 表示，這將削弱對平台的信任、擴大攻擊面，並降低對所有使用者（不僅是側載者）的隱私保護。  
 
 ---  
 
-## 📄 原始文檔  
+## 📄 原始文件  
 
-- 🧷 *為數百萬應用程式構建可信生態系統*（2021年6月）  
+- 🧷 *為數百萬應用程式打造可信賴的生態系統*（2021 年 6 月）  
   ↪️ [apple.com（官方）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
   ↪️ [github.com/lucasditomase（備份）](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
-- 🧷 *側載威脅分析*（2021年10月）  
+- 🧷 *側載行為的威脅分析*（2021 年 10 月）  
   ↪️ [apple.com（官方）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
   ↪️ [github.com/lucasditomase（備份）](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  

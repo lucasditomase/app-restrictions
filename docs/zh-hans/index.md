@@ -1,60 +1,51 @@
-# 侧载威胁分析  
+# 对侧载行为的威胁分析  
 
-## 📌 关键见- **广告软件**（HiddenAds，CopyCat）：用激进或欺诈性广告淹没用户。  
-- **勒索软件**（CryCryptor，MalLocker.B）：加密设备数据并要求赎金。  
-- **间谍软件**（SpyNote，HelloSpy）：监控活动，捕获私人数据，用于亲密伴侣监视。  
-- **银行木马**（BlackRock，Anubis）：通过覆盖攻击窃取凭证，甚至绕过2FA。  
+## 📌 关键信息  
 
-## 🧠 安全专家建议  
+- iPhone 强大的隐私和安全性至关重要，因为其存储的个人数据具有高度敏感性。  
+- 侧载（在 App Store 之外安装应用）对这一安全模型构成严重威胁。  
+- 在支持侧载的平台上，恶意软件的传播率高得多（例如 Android 的感染数量是 iOS 的 15–47 倍）。  
+- App Store 的审核流程和系统保护机制大大降低了恶意软件的风险。  
 
-> "仅从官方应用商店安装应用。" — 欧洲刑警组织  
-> "避免在BYOD设备上侧载。" — 美国国土安全部  
-> "第三方应用构成严重安全威胁。" — 国际刑警组织/卡巴斯基  
+## 📉 侧载的风险  
 
-## 🚫 Apple的立场大的隐私/安全对于存储在其中的敏感个人数据至关重要。  
-- 侧载（在App Store外安装应用）对这种安全模式构成重大威胁。  
-- 恶意软件在支持侧载的平台上更为普遍（例如，Android的感染率比iOS高15-47倍）。  
-- App Store审核流程和系统保护措施显著降低了恶意软件风险。  
-
-## 📉 侧载风险  
-
-- **恶意软件增加**：侧载绕过App Store检查，使得广告软件、间谍软件、木马等成为可能。  
-- **社会工程**：用户可能被诱骗安装模仿合法应用的虚假应用。  
-- **用户控制减少**：侧载应用可能绕过家长控制、应用跟踪透明度或权限提示。  
-- **平台安全削弱**：可能需要暴露专有API或OS内部组件，威胁iOS核心安全架构。  
-- **负外部性**：即使避免侧载的用户也面临风险——例如，通过企业强制、虚假应用商店模仿或商业/工作需要。  
+- **恶意软件增多**：侧载绕过 App Store 审查，可导致广告软件、间谍软件、木马等泛滥。  
+- **社会工程攻击**：用户可能被诱导安装伪装成合法应用的恶意应用。  
+- **用户控制力下降**：侧载应用可能绕过家长控制、App 跟踪透明度或权限提示。  
+- **平台安全性削弱**：可能要求公开专有 API 或操作系统内部机制，从而威胁 iOS 的核心安全架构。  
+- **外部负面影响**：即使是避免侧载的用户也可能受到影响——例如，企业强制、仿冒 App Store 或工作需求等。  
 
 ## 🔍 恶意软件示例  
 
-- **Adware** (HiddenAds, CopyCat): Floods users with aggressive or fraudulent ads.  
-- **Ransomware** (CryCryptor, MalLocker.B): Encrypts device data and demands ransom.  
-- **Spyware** (SpyNote, HelloSpy): Monitors activity, captures private data, used in intimate partner surveillance.  
-- **Banking Trojans** (BlackRock, Anubis): Steals credentials via overlay attacks, even bypasses 2FA.  
+- **广告软件**（HiddenAds、CopyCat）：向用户推送大量具有攻击性或欺诈性的广告。  
+- **勒索软件**（CryCryptor、MalLocker.B）：加密设备数据并勒索赎金。  
+- **间谍软件**（SpyNote、HelloSpy）：监视用户行为，窃取私人数据，常用于亲密伴侣监控。  
+- **银行木马**（BlackRock、Anubis）：通过界面覆盖攻击窃取账户信息，甚至可绕过双重验证（2FA）。  
 
-## 🧠 Security Expert Advice  
+## 🧠 安全专家建议  
 
-> "Only install apps from official app stores." — Europol  
-> "Avoid sideloading on BYOD devices." — US Dept. of Homeland Security  
-> "Third-party apps pose a serious security threat." — Interpol/Kaspersky  
+> “只从官方应用商店安装应用。” — 欧洲刑警组织  
+> “避免在 BYOD（自带设备）上进行侧载。” — 美国国土安全部  
+> “第三方应用构成严重的安全威胁。” — 国际刑警组织 / 卡巴斯基  
 
-## 🚫 Apple’s Position  
+## 🚫 Apple 的立场  
 
-- Apple已经允许在严格控制下进行有限的企业侧载。  
-- 先前的滥用（例如，Facebook Research应用，Goontact间谍软件）显示了这些机制被滥用的速度。  
-- 广泛的侧载将大大放大这种风险。  
+- Apple 已允许企业在严格控制下进行有限的侧载。  
+- 过往的滥用案例（如 Facebook Research 应用、Goontact 间谍软件）表明，这些机制极易被恶意利用。  
+- 广泛开放侧载将极大放大这些风险。  
 
-## 📎 结论  
+## 📎 总结  
 
-侧载在用户、开发者和组织中引入了广泛的风险。Apple声称这将降低平台信任，增加攻击面，并削弱所有用户（不仅仅是那些侧载的用户）的隐私保护。  
+侧载行为给用户、开发者和组织带来了广泛的风险。Apple 表示，侧载将削弱用户对平台的信任，增加攻击面，并降低所有用户（不仅是侧载用户）的隐私保护。  
 
 ---  
 
 ## 📄 原始文档  
 
-- 🧷 *为数百万应用构建可信生态系统*（2021年6月）  
+- 🧷 *为数百万应用构建可信生态系统*（2021 年 6 月）  
   ↪️ [apple.com（官方）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)  
   ↪️ [github.com/lucasditomase（备份）](https://github.com/lucasditomase/app-restrictions/blob/main/summary.pdf)  
 
-- 🧷 *侧载威胁分析*（2021年10月）  
+- 🧷 *对侧载行为的威胁分析*（2021 年 10 月）  
   ↪️ [apple.com（官方）](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps_A_Threat_Analysis_of_Sideloading.pdf)  
   ↪️ [github.com/lucasditomase（备份）](https://github.com/lucasditomase/app-restrictions/blob/main/threat-analysis.pdf)  
